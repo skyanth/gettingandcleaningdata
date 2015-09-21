@@ -39,6 +39,7 @@ You should create one R script called run_analysis.R that does the following.
 * __CodeBook.md__: information about the raw and tidy data set
 * __README.md__: this file
 * __run_analysis.R__: R script to transform raw data set in a tidy one
+* __tidy_data.txt__: the project deliverable (for completeness)
 
 ## Guide to create the tidy data file
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
